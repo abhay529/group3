@@ -1,0 +1,1775 @@
+
+
+.a{
+    position: absolute;
+    width: 1397px;
+    height: 484px;
+    left: 43px;
+    top: 133px;
+}
+
+.a1{
+    position: absolute;
+    width: 139px;
+    height: 26px;
+    left: 0px;
+    top: 104px;
+    
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: #B60303;
+
+}
+
+.a2{
+    position: absolute;
+    width: 628px;
+    height: 146px;
+    left: 0px;
+    top: 130px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 57px;
+    line-height: 73px;
+
+    color: #2A002E;
+}
+
+.a3{
+    position: absolute;
+    width: 581px;
+    height: 105px;
+    left: 0px;
+    top: 309px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.a4{
+    position: absolute;
+    width: 837px;
+    height: 484px;
+    left: 701px;
+    top: 0px;
+}
+
+.b{
+    position: absolute;
+width: 405px;
+height: 686px;
+left: 31px;
+top: 777px;
+}
+
+.b1{
+    position: absolute;
+width: 180px;
+height: 43px;
+left: 0px;
+top: 0px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 43px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #2A002E;
+}
+
+.b2{
+    position: absolute;
+width: 28px;
+height: 26px;
+left: 0px;
+top: 95px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #B60303;
+
+}
+.b3{
+    position: absolute;
+width: 359px;
+height: 78px;
+left: 46px;
+top: 77px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+display: flex;
+align-items: center;
+
+color: #2A002E;
+
+}
+.b4{
+    position: absolute;
+    width: 32px;
+    height: 26px;
+    left: 0px;
+    top: 203px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #B60303;
+     
+}
+.b5{
+    position: absolute;
+width: 359px;
+height: 52px;
+left: 46px;
+top: 190px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+display: flex;
+align-items: center;
+
+color: #2A002E;
+
+}
+.b6{
+    position: absolute;
+width: 32px;
+height: 26px;
+left: 0px;
+top: 277px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #B60303;
+
+}
+.b7{
+    position: absolute;
+width: 359px;
+height: 52px;
+left: 46px;
+top: 277px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+
+color: #2A002E;
+
+}
+.b8{
+    position: absolute;
+    width: 34px;
+    height: 26px;
+    left: 0px;
+    top: 364px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #B60303;
+     
+}
+.b9{
+    position: absolute;
+    width: 359px;
+    height: 52px;
+    left: 46px;
+    top: 364px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    
+    color: #2A002E;
+     
+}
+.b10{
+    position: absolute;
+width: 32px;
+height: 26px;
+left: 0px;
+top: 451px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #B60303;
+}
+.b11{
+    position: absolute;
+width: 359px;
+height: 26px;
+left: 46px;
+top: 451px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #2A002E;
+
+}
+.b12{
+    position: absolute;
+    width: 31px;
+    height: 26px;
+    left: 0px;
+    top: 512px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #B60303;
+
+}
+.b13{
+    position: absolute;
+    width: 359px;
+    height: 26px;
+    left: 46px;
+    top: 512px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    /* identical to box height */
+    color: #2A002E;
+}
+.b14{
+    position: absolute;
+width: 34px;
+height: 26px;
+left: 0px;
+top: 573px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+color: #B60303;
+}
+.b15{
+    position: absolute;
+    width: 359px;
+    height: 26px;
+    left: 46px;
+    top: 573px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    /* identical to box height */
+    color: #2A002E;
+}
+.b16{
+    position: absolute;
+width: 34px;
+height: 26px;
+left: 0px;
+top: 634px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+color: #B60303;
+}
+.b17{
+    position: absolute;
+width: 359px;
+height: 52px;
+left: 46px;
+top: 634px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+
+color: #2A002E;
+}
+.b18{
+    position: absolute;
+    width: 1953px;
+height: 497px;
+left: 209px;
+top: -16px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    color: #2A002E;
+  }
+.b19{
+    position: absolute;
+width: 28px;
+height: 23px;
+left: 799px;
+top: 461px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #B60303;
+}
+.b20{
+    position: absolute;
+width: 839px;
+height: 174px;
+left: 798px;
+top: 487px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 51px;
+line-height: 73px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+.b21{
+    position: absolute;
+    width: 828px;
+    height: 81px;
+    left: 807px;
+    top: 716px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 30px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.b22{
+    /* button */
+    position: absolute;
+width: 238px;
+height: 67px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+}
+.b22{
+    /* Enquire Now */
+
+
+position: absolute;
+width: 171px;
+height: 62px;
+left: 803px;
+top: 884px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.b23{
+    box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 62px;
+left: 957px;
+top: 885px;
+
+background: #000000;
+border-left: 3px solid #FFFFFF;
+
+}
+.c{
+    position: absolute;
+width: 896px;
+height: 1070px;
+left: 07px;
+top: 1849px;
+}
+.c1{
+    position: absolute;
+    width: 896px;
+    height: 574px;
+    left: 0px;
+    top: 0px;
+    
+    background: url(Industrial-Automation-–-Micro-factories-Swiftly-Move-to-Automation-for-More-Resilient-Manufacturing.jpg);
+}
+.c2{
+    position: absolute;
+width: 32px;
+height: 26px;
+left: 28px;
+top: 608px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #B60303;
+
+}
+.c3{
+    position: absolute;
+width: 839px;
+height: 146px;
+left: 21px;
+top: 619px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 56px;
+line-height: 73px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+.c4{
+    position: absolute;
+width: 839px;
+height: 90px;
+left: 28px;
+top: 824px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+.c5{
+    /*  Button */
+
+
+position: absolute;
+width: 238px;
+height: 67px;
+left: 28px;
+top: 953px;
+background-color: #000000;
+
+}
+.c5{
+    /* Enquire Now */
+
+
+position: absolute;
+width: 171px;
+height: 62px;
+left: 13px;
+top: 1009px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.c6{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 70px;
+height: 62px;
+left: 173px;
+top: 1010px;
+    
+    background: #000000;
+    border-left: 3px solid #FFFFFF;
+    }
+    .d{
+        position: absolute;
+        width: 896px;
+        height: 1038px;
+        left: 656px;
+        top: 3138px;
+      }
+    .d1{
+        position: absolute;
+width: 896px;
+height: 574px;
+left: 28px;
+top: 0px;
+
+background: url(image.png), url(Industrial-Automation-–-Micro-factories-Swiftly-Move-to-Automation-for-More-Resilient-Manufacturing.jpg);
+    }
+    .d2{
+        position: absolute;
+width: 32px;
+height: 26px;
+left: 28px;
+top: 635px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #B60303;
+
+    }
+.d3{
+    position: absolute;
+width: 839px;
+height: 146px;
+left: 28px;
+top: 661px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 73px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+.d4{
+    position: absolute;
+width: 839px;
+height: 60px;
+left: 28px;
+top: 824px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+
+}
+.d5{
+    /*button*/
+    position: absolute;
+width: 238px;
+height: 67px;
+left: 0px;
+top: 0px;
+
+background: #242568;
+}
+.d5{
+    /* Enquire Now */
+
+
+position: absolute;
+width: 171px;
+height: 62px;
+left: 26px;
+top: 963px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.d6{
+    box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 62px;
+left: 179px;
+top: 963px;
+background: #242568;
+border-left: 3px solid #FFFFFF;
+
+}
+.e{
+    position: absolute;
+width: 896px;
+height: 1063px;
+left: 43px;
+top: 4260px;
+}
+.e1{
+    position: absolute;
+width: 896px;
+height: 574px;
+left: 0px;
+top: 0px;
+
+background: url(image.png), url(Industrial-Automation-–-Micro-factories-Swiftly-Move-to-Automation-for-More-Resilient-Manufacturing.jpg);
+}
+.e2{
+    position: absolute;
+    width: 34px;
+    height: 26px;
+    left: 28px;
+    top: 635px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #B60303;
+    
+}
+.e3{
+    position: absolute;
+width: 839px;
+height: 146px;
+left: 28px;
+top: 656px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 73px;
+
+color: #000000;
+
+}
+.e4{
+    position: absolute;
+width: 839px;
+height: 90px;
+left: 28px;
+top: 819px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+}
+.e5{
+    /* button */
+
+
+position: absolute;
+width: 238px;
+height: 67px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+}
+.e5{
+    /* Enquire Now */
+
+
+position: absolute;
+width: 171px;
+height: 62px;
+left: 13px;
+top: 1010px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.e6{
+    box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 62px;
+left: 165px;
+top: 1010px;
+
+background: #000000;
+border-left: 3px solid #FFFFFF;
+
+}
+.f{
+    position: absolute;
+    width: 896px;
+    height: 958px;
+    left: 673px;
+    top: 5404px;
+    
+}
+.f1{
+    position: absolute;
+width: 896px;
+height: 574px;
+left: 0px;
+top: 0px;
+
+background: url(image.png), url(Industrial-Automation-–-Micro-factories-Swiftly-Move-to-Automation-for-More-Resilient-Manufacturing.jpg);
+}
+.f2{
+    position: absolute;
+width: 32px;
+height: 26px;
+left: 28px;
+top: 635px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #B60303;
+
+
+}
+.f3{
+    position: absolute;
+width: 839px;
+height: 73px;
+left: 28px;
+top: 656px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 73px;
+
+color: #000000;
+
+}
+.f4{
+    position: absolute;
+width: 839px;
+height: 60px;
+left: 28px;
+top: 746px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+
+}
+.f5{
+    /*button*/
+    position: absolute;
+    width: 177px;
+    height: 50px;
+    left: 13px;
+    top: 903px;
+
+background: #000000;
+}
+.f5{
+    /* Enquire Now */
+
+
+position: absolute;
+width: 171px;
+height: 62px;
+    left: 13px;
+    top: 903px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.f6{
+    box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 62px;
+left: 165px;
+top: 902px;
+background: #000000;
+border-left: 3px solid #FFFFFF;
+}
+.g{
+    position: absolute;
+width: 896px;
+height: 1207px;
+left: 43px;
+top: 6443px;
+
+}
+.g1{
+    position: absolute;
+width: 896px;
+height: 574px;
+left: 0px;
+top: 0px;
+
+background: url(image.png), url(Industrial-Automation-–-Micro-factories-Swiftly-Move-to-Automation-for-More-Resilient-Manufacturing.jpg), url(Industrial-Automation-–-Micro-factories-Swiftly-Move-to-Automation-for-More-Resilient-Manufacturing.jpg);
+}
+.g2{
+    position: absolute;
+width: 33px;
+height: 26px;
+left: 28px;
+top: 635px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #B60303;
+
+}
+.g3{
+    position: absolute;
+width: 839px;
+height: 146px;
+left: 28px;
+top: 656px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 73px;
+
+color: #000000;
+}
+.g4{
+    position: absolute;
+    width: 839px;
+    height: 240px;
+    left: 28px;
+    top: 819px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    
+    color: #000000;
+    
+}
+.g5{
+    /* Button */
+
+
+position: absolute;
+width: 238px;
+height: 67px;
+left: 28px;
+top: 1098px;
+color: #000000;
+
+}
+.g5{
+    /* Enquire Now */
+
+
+position: absolute;
+width: 171px;
+height: 62px;
+left: 38px;
+top: 1142px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+background-color: #000000;
+}
+.g6{
+    box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 62px;
+left: 190px;
+top: 1142px;
+
+background: #000000;
+border-left: 3px solid #FFFFFF;
+
+}
+.h{
+    position: absolute;
+width: 896px;
+height: 1036px;
+left: 654px;
+top: 7717px;
+}
+.h1{
+    position: absolute;
+width: 896px;
+height: 574px;
+left: 0px;
+top: 0px;
+
+background: url(image.png), url(Industrial-Automation-–-Micro-factories-Swiftly-Move-to-Automation-for-More-Resilient-Manufacturing.jpg);
+}
+.h2{
+    position: absolute;
+width: 31px;
+height: 26px;
+left: 28px;
+top: 635px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #B60303;
+
+
+}
+.h3{
+    position: absolute;
+width: 839px;
+height: 146px;
+left: 28px;
+top: 656px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 73px;
+
+color: #000000;
+
+}
+.h4{
+    position: absolute;
+width: 839px;
+height: 60px;
+left: 28px;
+top: 819px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+
+}
+.h5{
+    /* Button */
+
+
+position: absolute;
+width: 238px;
+height: 67px;
+left: 28px;
+top: 918px;
+
+}
+.h5{
+    position: absolute;
+    width: 171px;
+height: 62px;
+    left: 20px;
+    top: 950px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+background-color: #000000;
+
+}
+.h6{
+    box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 62px;
+left: 165px;
+top: 949px;
+
+background: #000000;
+border-left: 3px solid #FFFFFF;
+
+}
+.i{
+    position: absolute;
+    width: 896px;
+    height: 1034px;
+    left: 43px;
+    top: 8848px;
+    
+}
+.i1{
+    position: absolute;
+    width: 896px;
+    height: 574px;
+    left: 0px;
+    top: 0px;
+    
+    background: url(image.png), url(Industrial-Automation-–-Micro-factories-Swiftly-Move-to-Automation-for-More-Resilient-Manufacturing.jpg);
+}
+.i2{
+    position: absolute;
+    width: 34px;
+    height: 26px;
+    left: 28px;
+    top: 635px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #B60303;
+}
+.i3{
+    position: absolute;
+    width: 839px;
+    height: 146px;
+    left: 28px;
+    top: 656px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 73px;
+    
+    color: #000000;
+    
+}
+.i4{
+    position: absolute;
+    width: 839px;
+    height: 60px;
+    left: 28px;
+    top: 819px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    
+    color: #000000;
+    
+}
+.i5{
+/* Button */
+
+
+position: absolute;
+width: 189px;
+height: 58px;
+left: 25px;
+top: 962px;
+}
+.i5{
+/* Enquire Now */
+
+
+position: absolute;
+width: 171px;
+height: 62px;
+left: 25px;
+top: 962px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+background-color: #000000;
+}
+.i6{
+    box-sizing: border-box;
+    position: absolute;
+    width: 70px;
+    height: 62px;
+left: 176px;
+top: 962px;
+    background: #000000;
+    border-left: 3px solid #FFFFFF;   
+}
+.j{
+    position: absolute;
+width: 1440px;
+height: 202px;
+left: 0px;
+top: 9957px;
+}
+.j{
+    position: absolute;
+    width: 1799px;
+    height: 177px;
+    left: 9px;
+    top: 9919px;
+    background: #B60303;}
+.j1{
+    position: absolute;
+width: 90px;
+height: 90px;
+left: 322px;
+top: 56px;
+
+background: url(.png);
+}
+.j2{
+    position: absolute;
+width: 936px;
+height: 67px;
+left: 446px;
+top: 24px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 67px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.k{
+    position: absolute;
+width: 1360px;
+height: 461px;
+left: 110px;
+top: 10136px;
+}
+.k1{
+    position: absolute;
+    width: 158px;
+    height: 26px;
+    left: 0px;
+    top: 29px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #B60303;
+}
+.k2{
+    position: absolute;
+    width: 706px;
+    height: 122px;
+    left: 0px;
+    top: 40px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    
+
+}
+.k3{
+    position: absolute;
+    width: 581px;
+    height: 70px;
+    left: 0px;
+    top: 180px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 35px;
+    /* or 159% */
+    
+    
+    color: #000000;
+}
+.k4{
+/* Location */
+
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top:294px;
+
+background: url(.png);
+
+}
+.k5{
+    position: absolute;
+width: 89px;
+height: 35px;
+left: 65px;
+top: 292px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 35px;
+/* identical to box height, or 159% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+.k6{
+    /* 2 */
+
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 361px;
+
+background: url(.png);
+
+
+}
+.k7{
+    position: absolute;
+width: 187px;
+height: 35px;
+left: 65px;
+top: 359px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 35px;
+/* identical to box height, or 159% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.k8{
+   /* 3 */
+
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 426px;
+
+background: url(.png);
+}
+.k9{
+    position: absolute;
+width: 69px;
+height: 35px;
+left: 65px;
+top: 426px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 35px;
+/* identical to box height, or 159% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+.k10{
+    position: absolute;
+width: 733px;
+height: 330px;
+left: 627px;
+top: 205px;
+
+}
+.k11{
+    position: absolute;
+width: 784px;
+height: 35px;
+left: -1px;
+top: -57px;
+border: none;
+border-bottom-color: currentcolor;
+border-bottom-style: none;
+border-bottom-width: medium;
+border-bottom: 2px solid black;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 35px;
+/* identical to box height, or 206% */
+
+
+color: #000000;
+}
+.k12{
+    position: absolute;
+width: 784px;
+height: 35px;
+left: 0px;
+top: 14px;
+border: none;
+border-bottom-color: currentcolor;
+border-bottom-style: none;
+border-bottom-width: medium;
+border-bottom: 2px solid black;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 35px;
+/* identical to box height, or 206% */
+
+
+color: #000000;
+
+}
+.k13{
+    position: absolute;
+    width: 795px;
+    height: 66px;
+    left: 0px;
+    top: 89px;
+border: none;
+border-bottom-color: currentcolor;
+border-bottom-style: none;
+border-bottom-width: medium;
+border-bottom: 2px solid black;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 35px;
+/* identical to box height, or 206% */
+
+
+color: #000000;
+
+}
+.k14{
+    /* Button */
+
+
+position: absolute;
+width: 145px;
+height: 49px;
+left: 627px;
+top: 392px;
+
+/* Send Now */
+
+
+position: absolute;
+width: 130px;
+height: 43px;
+left: 1px;
+top: 256px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 35px;
+/* identical to box height, or 206% */
+
+text-align: center;
+
+color: #FFFFFF;
+background-color: #000000;
+
+
+}
+.l{
+    position: absolute;
+width: 1440px;
+height: 133px;
+left: 0px;
+top: 0px;
+}
+.l1{
+    position: absolute;
+    width: 97px;
+    height: 97px;
+    left: 26px;
+    top: 18px;
+    text-decoration: none;
+
+    
+    background: url(.png);
+}
+.l2{
+    position: absolute;
+    width: 63px;
+    height: 24px;
+    left: 236px;
+    top: 26px;
+    text-decoration: none;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    cursor: pointer;
+    
+}
+.l2:hover{
+    color: rgb(255, 4, 4);}
+.l3{
+    position: absolute;
+width: 86px;
+height: 24px;
+left: 341px;
+top: 26px;
+text-decoration: none;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #FF0808;
+
+}
+.l4{
+    position: absolute;
+width: 92px;
+height: 24px;
+left: 469px;
+top:26px;
+text-decoration: none;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+cursor: pointer;
+    
+}
+.l4:hover{
+   color: rgb(255, 4, 4);}
+.l5{
+    position: absolute;
+width: 88px;
+height: 24px;
+left: 603px;
+top: 26px;
+text-decoration: none;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+cursor: pointer;
+    
+}
+.l5:hover{
+    color: rgb(255, 4, 4);}
+.l6{
+    position: absolute;
+width: 92px;
+height: 24px;
+left: 732px;
+top: 26px;
+text-decoration: none;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+cursor: pointer;
+    
+}
+.l6:hover{
+   color: rgb(255, 4, 4);}
+.l7{
+    position: absolute;
+width: 110px;
+height: 24px;
+left: 866px;
+top: 26px;
+text-decoration: none;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+cursor: pointer;
+    
+}
+.l7:hover{
+    color: rgb(255, 4, 4);}
+.l8{
+    position: absolute;
+width: 109px;
+height: 25px;
+left: 1269px;
+top: 26px;
+}
+.l9{
+    /*button*/
+    position: absolute;
+width: 140px;
+height: 41px;
+left: 1266px;
+top: 46px;
+
+}
+.l9{
+ /* Enquire Now */
+
+
+position: absolute;
+width: 149px;
+height: 43px;
+left: 1400px;
+top: 16px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+background-color: #000000;
+cursor: pointer;
+}
+.l9:hover{
+    background-color: rgb(22, 22, 22);
+}
